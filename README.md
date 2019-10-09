@@ -1,1 +1,1 @@
-![Схема БД](https://github.com/Galentin/BD/raw/master//scheme.jpg)
+![Схема БД](https://github.com/Galentin/BD/blob/master/scheme.JPG)
